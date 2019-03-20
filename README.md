@@ -10,7 +10,8 @@ This program offers:
 6. meanders, if possible for the permutation with documentation if not;
 7. grid tours where the program generates and elucidates the generated extra permutation, for even length permutations; documented as not possible otherwise.
 
-Requirements:
+Requirements:      
+
 The program will offer above options for each of the remaining 4 areas, shown in the Picture1.
 The program gives the user the opportunity to pick for each area that which they wish to see in that area, the lists of opportunity are the same for each area and should appear in the partition before the selection.
 The user will be given a clearly visible definition for each option in the list.
